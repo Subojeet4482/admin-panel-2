@@ -1,0 +1,11 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+backups/*
+!backups/.gitkeep
+*.zip
+README.md
